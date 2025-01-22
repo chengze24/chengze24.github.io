@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Naming is so hard"
+title                    : Verdant Steel
 title_separator          : "-"
 name                     : &name "Chengze Liu"
-description              : &description "senior in computer science B.S."
+description              : &description 
 url                      : https://chengze24.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/chengze24/chengze24.github.io
