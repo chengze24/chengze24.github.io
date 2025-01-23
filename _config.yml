@@ -10,12 +10,11 @@
 locale                   : "en-US"
 title                    : Sekka Fan Page
 title_separator          : "-"
-name                     : 
-description              : 
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      :  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/chengze24/chengze24.github.io
-
+repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -28,7 +27,7 @@ author:
   location         : University of Houston
   Department of Computer Science: cs.uh.edu
   employer         : 
-  uri              : 
+  uri              : #url
   email            : chengzeliu2022@gmail.com 
 
   # Academic websites
@@ -50,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "chz25" # Replace this with you Bluesky username
+  bluesky          : chz25.bsky.social # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : chengze-liu # username
+  linkedin         : in/chengze-liu-a199a8348/ # username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
