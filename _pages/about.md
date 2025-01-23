@@ -7,8 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-
-
-Chengze Liu's personal website
-======
+I am a senior in [computer science B.S., University of Houston](cs.uh.edu). 
 
