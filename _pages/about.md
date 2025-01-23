@@ -1,5 +1,3 @@
-
-
 ---
 permalink: /
 title: "Welcome to Chengze Liu's website!"
