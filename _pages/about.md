@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior in [computer science B.S., University of Houston](cs.uh.edu). 
+I am a senior in [computer science B.S., University of Houston](https://www.uh.edu/nsm/computer-science/). 
 
