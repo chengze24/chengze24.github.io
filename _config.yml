@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : Sekka Fan Page
+title                    : Chengze Liu
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sekka1.png"
+  avatar           : "chengzeliu_photo.jpg"
   name             : Chengze Liu
   pronouns         : # example: "she/her"  
   bio              : Senior in Computer Science B.S.
