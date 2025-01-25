@@ -22,4 +22,4 @@ I am interested in software development and game development.
 Here's a new year Sekka to wish everyone a successful 2025!
 
 
-<img src="https://chengze24.github.io/images/sve_newyearsekka.png" alt="" width="230"/>
+<img src="https://chengze24.github.io/images/sve_newyearsekka.png" alt="" width="250"/>
