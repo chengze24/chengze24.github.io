@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to download my resume](https://github.com/chengze24/chengze24.github.io/blob/master/files/resume_Chengze%20Liu.pdf)
+[Click here to download my resume](https://chengze24.github.io/files/resume_ChengzeLiu.pdf)
 
 Education
 ======
