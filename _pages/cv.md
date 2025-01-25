@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Click here to download my resume](https://github.com/chengze24/chengze24.github.io/blob/master/files/resume_Chengze%20Liu.pdf)
+
 Education
 ======
 * B.S. in Computer Science, University of Houston, 2025 (expected)
