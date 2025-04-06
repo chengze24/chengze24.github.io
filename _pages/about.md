@@ -16,7 +16,7 @@ I am expected to graduate in Fall 2025.
 I am interested in software development and game development.
 
 
-[Click here to download my resume](https://chengze24.github.io/files/resume_ChengzeLiu.pdf)
+[Click here to download my resume](https://chengze24.github.io/files/Chengze Liu Resume 1.14.pdf)
 
 
 Here's a new year Sekka to wish everyone a successful 2025!
