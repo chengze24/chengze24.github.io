@@ -7,26 +7,26 @@ excerpt: |
   <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; margin-bottom: 1rem;">
     <div>
       <p><strong>Main Character</strong></p>
-      <img src="/images/mc_image.png" alt="Main Character" width="120">
+      <img src="/images/Liu_Chengze_mc.png" alt="Main Character" width="120">
     </div>
     <div>
       <p><strong>Enemy Character</strong></p>
-      <img src="/images/ec_image.png" alt="Enemy Character" width="120">
+      <img src="/images/Liu_Chengze_ec.png" alt="Enemy Character" width="120">
     </div>
   </div>
 
   <div style="margin-bottom: 1rem;">
     <p><strong>Main Character Animations</strong></p>
-    <img src="/images/mc_idle.gif" alt="MC Idle" width="100">
-    <img src="/images/mc_move.gif" alt="MC Move" width="100">
-    <img src="/images/mc_attack.gif" alt="MC Attack" width="100">
+    <img src="/images/Liu_Chengze_mc_idle.gif" alt="MC Idle" width="100">
+    <img src="/images/Liu_Chengze_mc_move.gif" alt="MC Move" width="100">
+    <img src="/images/Liu_Chengze_mc_attack.gif" alt="MC Attack" width="100">
   </div>
 
   <div style="margin-bottom: 1rem;">
     <p><strong>Enemy Character Animations</strong></p>
-    <img src="/images/ec_idle.gif" alt="EC Idle" width="100">
-    <img src="/images/ec_move.gif" alt="EC Move" width="100">
-    <img src="/images/ec_attack.gif" alt="EC Attack" width="100">
+    <img src="/images/Liu_Chengze_ec_idle.gif" alt="EC Idle" width="100">
+    <img src="/images/Liu_Chengze_ec_move.gif" alt="EC Move" width="100">
+    <img src="/images/Liu_Chengze_ec_attack.gif" alt="EC Attack" width="100">
   </div>
 
   <div style="margin-bottom: 2rem; text-align: center;">
