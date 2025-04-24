@@ -1,6 +1,9 @@
 ---
 title: "Approval System"
-excerpt: "Django-based web service for online request submission and approval. Implemented with Microsoft login, automated PDF generation, and role-based access control."
+excerpt: "Django-based web service for request submission and approval.<br/>
+<strong>Features:</strong> Microsoft Login, PDF generation, role-based access.<br/>
+<iframe width='300' height='169' src='https://www.youtube.com/embed/yQ2K8-CZ75A?si=s7kGBvJs0_ltBq8P' frameborder='0' allowfullscreen></iframe>"
+
 collection: portfolio
 ---
 
