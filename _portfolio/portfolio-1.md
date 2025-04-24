@@ -1,11 +1,10 @@
 ---
 title: "Approval System"
 excerpt: |
-  👆 <strong>Click Link above</strong> for detail description, demo video and repo link.
-  <p><strong>Django-based Approval Workflow System</strong><br/>An intuitive platform for dynamic form submission and approval — with role-based access, PDF generation, and Microsoft OAuth integration.</p>
+  📑 **Approval Workflow System** built with Django. A comprehensive tool for managing requests, approvals, and generating PDFs automatically. Supports Microsoft OAuth integration and dynamic form submissions.
   
   <div style="margin-bottom: 2rem; text-align: center;">
-    <h2>📽 Watch the Demo Video</h2>
+    <h3>🎥 Watch the Demo</h3>
     <iframe width="560" height="315" 
       src="https://www.youtube.com/embed/yQ2K8-CZ75A?start=1" 
       title="Approval System Demo" frameborder="0"
@@ -14,11 +13,11 @@ excerpt: |
   </div>
 
   <div style="margin-bottom: 2rem;">
-    <h2>📂 GitHub Repository</h2>
+    <h3>🔗 GitHub Repository</h3>
     <p>
-      Explore the full source code and documentation on GitHub:<br/>
+      Check out the full source code and documentation: <br/>
       <a href="https://github.com/37DG/4353-project" target="_blank">
-        <strong>➡️ github.com/37DG/4353-project</strong>
+        <strong>GitHub Repo</strong>
       </a>
     </p>
   </div>
@@ -27,12 +26,12 @@ collection: portfolio
 
 ## Approval System
 
-This Django-based web service allows users to submit and approve requests online. Key features include:
+This Django-based system streamlines the process of submitting and approving requests. Notable features include:
 
-- Login using Microsoft credentials via Azure AD
-- Automatic PDF generation of approval forms
-- Role-based access control (Admin, Manager, Staff)
-- Clean, responsive interface built with Bootstrap
+- **Microsoft OAuth** integration for secure login
+- **Automated PDF generation** for approval forms
+- **Role-based access** (Admin, Manager, Staff)
+- Responsive, user-friendly interface built with **Bootstrap**
 
 ---
 
