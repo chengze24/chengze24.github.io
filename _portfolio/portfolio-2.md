@@ -4,29 +4,29 @@ excerpt: |
   <p><strong>🎮 Game Art and Animation Showcase</strong></p>
   <p>Designed and animated two characters for a 2D action game: a main character and an enemy character. Each includes idle, movement, and attack animations.</p>
 
-  <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; margin-bottom: 1rem;">
+  <div style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; margin-bottom: 2rem;">
     <div>
       <p><strong>Main Character</strong></p>
-      <img src="/images/Liu_Chengze_mc.png" alt="Main Character" width="120">
+      <img src="/images/Liu_Chengze_mc.png" alt="Main Character" width="480">
     </div>
     <div>
       <p><strong>Enemy Character</strong></p>
-      <img src="/images/Liu_Chengze_ec.png" alt="Enemy Character" width="120">
+      <img src="/images/Liu_Chengze_ec.png" alt="Enemy Character" width="480">
     </div>
   </div>
 
-  <div style="margin-bottom: 1rem;">
+  <div style="margin-bottom: 2rem;">
     <p><strong>Main Character Animations</strong></p>
-    <img src="/images/Liu_Chengze_mc_idle.gif" alt="MC Idle" width="100">
-    <img src="/images/Liu_Chengze_mc_move.gif" alt="MC Move" width="100">
-    <img src="/images/Liu_Chengze_mc_attack.gif" alt="MC Attack" width="100">
+    <img src="/images/Liu_Chengze_mc_idle.gif" alt="MC Idle" width="400">
+    <img src="/images/Liu_Chengze_mc_move.gif" alt="MC Move" width="400">
+    <img src="/images/Liu_Chengze_mc_attack.gif" alt="MC Attack" width="400">
   </div>
 
-  <div style="margin-bottom: 1rem;">
+  <div style="margin-bottom: 2rem;">
     <p><strong>Enemy Character Animations</strong></p>
-    <img src="/images/Liu_Chengze_ec_idle.gif" alt="EC Idle" width="100">
-    <img src="/images/Liu_Chengze_ec_move.gif" alt="EC Move" width="100">
-    <img src="/images/Liu_Chengze_ec_attack.gif" alt="EC Attack" width="100">
+    <img src="/images/Liu_Chengze_ec_idle.gif" alt="EC Idle" width="400">
+    <img src="/images/Liu_Chengze_ec_move.gif" alt="EC Move" width="400">
+    <img src="/images/Liu_Chengze_ec_attack.gif" alt="EC Attack" width="400">
   </div>
 
   <div style="margin-bottom: 2rem; text-align: center;">
