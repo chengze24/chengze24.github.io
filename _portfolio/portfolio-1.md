@@ -1,8 +1,8 @@
 ---
 title: "Approval System"
 excerpt: |
-  📑 **Approval Workflow System** built with Django. A comprehensive tool for managing requests, approvals, and generating PDFs automatically. Supports Microsoft OAuth integration and dynamic form submissions.
-  
+  📑 **Approval Workflow System** built with Django. A user-friendly web service that streamlines request submissions and approvals with automated PDF generation. Features Microsoft OAuth login and role-based access control for enhanced security and flexibility.
+
   <div style="margin-bottom: 2rem; text-align: center;">
     <h3>🎥 Watch the Demo</h3>
     <iframe width="560" height="315" 
@@ -15,7 +15,7 @@ excerpt: |
   <div style="margin-bottom: 2rem;">
     <h3>🔗 GitHub Repository</h3>
     <p>
-      Check out the full source code and documentation: <br/>
+      Explore the full source code and documentation: <br/>
       <a href="https://github.com/37DG/4353-project" target="_blank">
         <strong>GitHub Repo</strong>
       </a>
@@ -26,12 +26,14 @@ collection: portfolio
 
 ## Approval System
 
-This Django-based system streamlines the process of submitting and approving requests. Notable features include:
+The **Approval System** is a Django-based platform designed to simplify and automate the process of request submissions and approvals. Key features of the system include:
 
-- **Microsoft OAuth** integration for secure login
+- **Microsoft OAuth** authentication for secure user login
 - **Automated PDF generation** for approval forms
-- **Role-based access** (Admin, Manager, Staff)
-- Responsive, user-friendly interface built with **Bootstrap**
+- **Role-based access control** (Admin, Manager, Staff) to ensure proper permissions
+- A clean, responsive **Bootstrap** interface for an optimal user experience
+
+This system is ideal for businesses or organizations that require a straightforward, secure, and efficient way to manage internal approvals and document generation.
 
 ---
 
