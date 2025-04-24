@@ -30,8 +30,8 @@ The **Approval System** is a Django-based platform designed to simplify and auto
 
 - **Microsoft OAuth** authentication for secure user login
 - **Automated PDF generation** for approval forms
-- **Role-based access control** (Admin, Manager, Staff) to ensure proper permissions
-- A clean, responsive **Bootstrap** interface for an optimal user experience
+- **Role-based access control** (Admin, Basicuser) to ensure proper permissions
+- A clean, responsive interface for an optimal user experience
 
 This system is ideal for businesses or organizations that require a straightforward, secure, and efficient way to manage internal approvals and document generation.
 
