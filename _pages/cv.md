@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="https://chengze24.github.io/files/Chengze_Liu_resume_2.pdf" width="800" height="600"></iframe>
 
-[View PDF]([https://chengze24.github.io/files/resume_ChengzeLiu.pdf])
+
 
 
