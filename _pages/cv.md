@@ -9,36 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to download my resume](https://chengze24.github.io/files/resume_ChengzeLiu.pdf)
 
-Education
-======
-* B.S. in Computer Science, University of Houston, 2025 (expected)
-  * Minor in Math 
-
-
-Work experience
-======
-* Haidilao Hotpot Restaurant, Sep 2021 - May 2022
-  * Duties include: busser, snack preparations, kitchen preparations
-
-
-Personal Statement 
-======
-I love to work with people and make improvement together. 
-I am interested in software development, game development and data science. 
-I am open to any opportunities, and I will work hard to make myself useful. 
-
-  
-Skills
-======
-* Programming Languages: C, C++, Python, R, java
-* Languages: English, Chinese
-
-
-Contact
-======
-* chengzeliu2022@gmail.com
-
+[View PDF]([https://chengze24.github.io/files/resume_ChengzeLiu.pdf])
 
 
