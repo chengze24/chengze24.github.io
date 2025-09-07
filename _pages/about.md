@@ -13,7 +13,7 @@ I am a senior in [Computer Science B.S., University of Houston](https://www.uh.e
 I am expected to graduate in Fall 2025.
 
 
-I am interested in software development and game development.
+I am looking for opportunities in data science in any industry.
 
 
 [Click here to download my resume](https://chengze24.github.io/files/Chengze_Liu_resume_2.pdf)
