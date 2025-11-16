@@ -10,7 +10,7 @@ redirect_from:
 I am a senior in [Computer Science B.S., University of Houston](https://www.uh.edu/nsm/computer-science/). 
 
 
-I am expected to graduate in Fall 2025.
+I am expected to graduate in Dec 2025.
 
 
 I am looking for opportunities in data science in any industry.
