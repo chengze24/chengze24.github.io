@@ -16,7 +16,7 @@ I am expected to graduate in Dec 2025.
 I am looking for opportunities in data science in any industry.
 
 
-[Click here to download my resume](https://chengze24.github.io/files/Resume_Chengze_Liu_11_16.pdf)
+[Click here to download my resume](https://chengze24.github.io/files/Chengze_Liu_11_16.pdf)
 
 
 
