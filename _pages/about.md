@@ -16,10 +16,7 @@ I am expected to graduate in Fall 2025.
 I am looking for opportunities in data science in any industry.
 
 
-[Click here to download my resume](https://chengze24.github.io/files/Resume_Chengze_Liu_2.pdf)
+[Click here to download my resume](https://chengze24.github.io/files/Resume_Chengze_Liu_11_16.pdf)
 
 
-Here's a new year Sekka to wish everyone a successful 2025!
 
-
-<img src="https://chengze24.github.io/images/sve_newyearsekka.png" alt="" width="250"/>
