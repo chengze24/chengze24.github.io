@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior in [Computer Science B.S., University of Houston](https://www.uh.edu/nsm/computer-science/). 
+I am a master student in [Computer Science, Data Analytics track, University of Houston](https://www.uh.edu/nsm/computer-science/). 
 
 
-I am expected to graduate in Dec 2025.
+I graduated from University of Houston with BS in Computer Science in Dec 2025.
 
 
-I am looking for opportunities in data science in any industry.
+I am looking for opportunities in data science / machine learning in any industry.
 
 
-[Click here to download my resume](https://chengze24.github.io/files/Chengze_Liu_11_16.pdf)
+[Click here to download my resume](https://chengze24.github.io/files/Chengze_Liu_resume_April.pdf)
 
 
 
